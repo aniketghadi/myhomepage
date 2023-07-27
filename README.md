@@ -1,17 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/uUYfPRYhKeX9m/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dhvani-kothari/">
+  <a href="https://www.linkedin.com/in/aghadi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="dhvanikothari03@gmail.com">
+  <a href="aniketghadi50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Dhvani Kothari</h1>
+<h1 align="center">Hi 👋, I'm Aniket Ghadi</h1>
 <h3 align="center">A data wizard in making, with a wealth of experience as a Data Engineer and a formidable proficiency in Data Science, specializing in Machine Learning with a Master’s degree.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **Forever the girl that gets excited over pretty skies,books and good coffee! ✨**
 
-- 📫 How to reach me **dhvanikothari03@gmail.com**
+- 📫 How to reach me **aniketghadi50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,6 @@
 
 
 <!---
-dhvani-k/dhvani-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
